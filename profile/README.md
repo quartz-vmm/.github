@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/github/license/quartz-vmm/.github?style=plastic&color=blue)](https://raw.githubusercontent.com/quartz-vmm/.github/main/LICENSE)
 [![Contributing](https://img.shields.io/badge/contributing-Closed-blue?style=plastic)](https://raw.githubusercontent.com/quartz-vmm/.github/main/CONTRIBUTING.md)
 
-A modern macOS virtual machine manager powered by QEMU, with accelerated graphics through [reims-vGPU](https://github.com/steelbrain/reims-vgpu).
+A modern virtual machine manager for macOS guests based on QEMU, with graphics accelerated via [reims-vGPU](https://github.com/steelbrain/reims-vgpu).
 
 ## 🤝 Contributing
 
