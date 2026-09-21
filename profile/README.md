@@ -13,19 +13,27 @@
 
 A modern virtual machine manager for macOS guests based on QEMU, with graphics accelerated via [reims-vGPU](https://github.com/steelbrain/reims-vgpu).
 
-## 🤝 Contributing
-
-Quartz is currently **not accepting external contributions**.
-
-See the [CONTRIBUTING](https://raw.githubusercontent.com/quartz-vmm/.github/main/CONTRIBUTING.md) file for the complete contributing text.
-
 ## 📜 License
 
 Quartz are released under the AGPL-3.0.
 
 See the [LICENSE](https://raw.githubusercontent.com/quartz-vmm/.github/main/LICENSE) file for the complete license text.
 
-## ⚠️ Warnings
+## 🤝 Contributing
+
+Quartz is currently **not accepting external contributions**.
+
+See the [CONTRIBUTING](https://raw.githubusercontent.com/quartz-vmm/.github/main/CONTRIBUTING.md) file for the complete contributing text.
+
+## ✨ Getting started
+
+Run the following command in the directory of your choice to clone the project repositories.
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/quartz-vmm/.github/main/clone.sh | bash
+```
+
+## ⚠️ Some warnings
 
 - The [macOS](https://www.apple.com/os/macos) is a trademark of [Apple Inc](https://www.apple.com).
 - The [OSX-KVM](https://github.com/kholia/OSX-KVM) project is owned by [kholia](https://github.com/kholia).
