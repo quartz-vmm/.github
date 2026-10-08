@@ -12,7 +12,7 @@ git clone git@github.com:$ORG/quartz_core.git
 echo "\n"
 
 echo "Cloning the 'quartz_daemon' repository..."
-git clone git@github.com:$ORG/quartz_daemon.git
+git clone --recursive git@github.com:$ORG/quartz_daemon.git
 echo "\n"
 
 echo "Cloning the 'quartz_cli' repository..."
